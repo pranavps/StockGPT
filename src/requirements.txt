@@ -1,0 +1,10 @@
+openpyxl
+nltk
+scikit-learn
+textblob
+feedparser
+openai
+openpyxl
+yfinance
+ollama
+transformers
